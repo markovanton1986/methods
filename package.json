@@ -1,5 +1,5 @@
 {
-  "name": "@markovanton1986/classes1",
+  "name": "@markovanton1986/methods",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/markovanton1986/classes1.git"
+    "url": "git+https://github.com/markovanton1986/methods.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/markovanton1986/classes1/issues"
+    "url": "https://github.com/markovanton1986/methods/issues"
   },
-  "homepage": "https://github.com/markovanton1986/classes1#readme",
+  "homepage": "https://github.com/markovanton1986/methods#readme",
   "devDependencies": {
     "@babel/cli": "^7.24.6",
     "@babel/core": "^7.24.6",
